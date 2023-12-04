@@ -1,0 +1,5 @@
+*.txt
+*.dat
+*.py
+*.json
+.DS_Store
