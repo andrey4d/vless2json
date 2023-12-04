@@ -3,3 +3,4 @@
 *.py
 *.json
 .DS_Store
+**bin
